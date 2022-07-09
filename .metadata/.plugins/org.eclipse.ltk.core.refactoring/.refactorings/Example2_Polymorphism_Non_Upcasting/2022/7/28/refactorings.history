@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Polymorphism.agr&apos; to &apos;AGR&apos;&#x0D;&#x0A;- Original project: &apos;Example2_Polymorphism_Non_Runtime&apos;&#x0D;&#x0A;- Original element: &apos;Polymorphism.agr&apos;&#x0D;&#x0A;- Renamed element: &apos;Polymorphism.AGR&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;agr&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Polymorphism{agr.java[agr" matchStrategy="1" name="AGR" qualified="false" references="true" similarDeclarations="false" stamp="1657245020763" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,18 @@
+package bai5;
+
+import java.util.Date;
+
+public class TheMuon extends SinhVien{
+
+	private  String	sophieumuon ;
+	private  Date ngaymuon;
+	private  Date hantra;
+	private  String sohieusach;
+	
+	public TheMuon(String hoten, String id) {
+		super(hoten, id);
+		// TODO Auto-generated constructor stub
+	}
+
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;QuanLy.java&apos; to &apos;Module2_QuanLyMuonSach/src/bai5&apos;&#x0D;&#x0A;- Original project: &apos;Bai9&apos;&#x0D;&#x0A;- Destination element: &apos;Module2_QuanLyMuonSach/src/bai5&apos;&#x0D;&#x0A;- Original element: &apos;Class.QuanLy.java&apos;" description="Copy compilation unit" destination="=Module2_QuanLyMuonSach/src&lt;bai5" element1="/src&lt;Class{QuanLy.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1657243868253" units="1" version="1.0"/>
+</session>

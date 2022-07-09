@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;demo.HelloWorld&apos; to &apos;BienTongJava&apos;&#x0D;&#x0A;- Original project: &apos;My_Fist_Project_Oop&apos;&#x0D;&#x0A;- Original element: &apos;demo.HelloWorld&apos;&#x0D;&#x0A;- Renamed element: &apos;demo.BienTongJava&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;HelloWorld&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;demo{HelloWorld.java[HelloWorld" matchStrategy="1" name="BienTongJava" qualified="false" references="true" similarDeclarations="false" stamp="1655214758941" textual="false" version="1.0"/>
+</session>

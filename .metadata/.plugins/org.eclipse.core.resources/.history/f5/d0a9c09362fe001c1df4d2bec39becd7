@@ -1,0 +1,8 @@
+package Polymorphism;
+
+public class BabyDog extends Animal{
+
+	void eat() {
+		 System.out.println("drinking milk");
+		 }
+}

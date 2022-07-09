@@ -1,0 +1,9 @@
+package Polymorphism;
+
+public class VCB {
+
+	int getRateOfInterest() {
+		 return 8;
+		 }
+
+}

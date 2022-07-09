@@ -1,0 +1,8 @@
+package Polymorphism;
+
+public class CTG {
+
+	int getRateOfInterest() {
+		 return 9;
+	}
+}

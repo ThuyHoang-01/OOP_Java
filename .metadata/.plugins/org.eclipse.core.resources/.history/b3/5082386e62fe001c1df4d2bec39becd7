@@ -1,0 +1,8 @@
+package Polymorphism;
+
+public class Dog {
+	void eat() {
+		 System.out.println("eating fruits");
+		 }
+
+}
