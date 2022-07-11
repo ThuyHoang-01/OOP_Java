@@ -20,4 +20,5 @@
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="bai4.KhachHang"/>
+    <fullyQualifiedTypeName name="overriding.Vehicle"/>
 </qualifiedTypeNameHistroy>

@@ -28,6 +28,7 @@ public class Main {
 	       }
 	       for(int i=0;i < n;i++)
 	       {
+	    	   System.out.println("===================");
 	           System.out.println("Ho gia dinh thu : "+(i+1));
 	           ((BienLai) ds.get(i)).hienThongTin();
 	           System.out.println("====================");

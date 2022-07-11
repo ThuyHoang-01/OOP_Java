@@ -6,28 +6,20 @@ import java.util.Date;
 import java.util.Scanner;
 
 public class TheMuon extends SinhVien{
-
-
 		private int soMuon;
 		private Date ngayMuon;
 		private Date hanTra;
 		private String soHieu;
 
-
 		public TheMuon() {
-
 		}
-
 		public TheMuon(int soMuon, Date ngayMuon, String soHieu) {
 			this.soMuon = soMuon;
 			this.ngayMuon = ngayMuon;
 			this.soHieu = soHieu;
 		}
-
-	
 		public void nhapThongTin(Scanner sc) {
 			super.nhapThongTin(sc);
-
 			System.out.print("\tNhap so muon: ");
 			soMuon = sc.nextInt();
 			sc.nextLine();
@@ -42,22 +34,16 @@ public class TheMuon extends SinhVien{
 			System.out.println("\tNhap so hieu: ");
 			soHieu = sc.nextLine();
 		}
-
 		private Date strToDate(String strNgayMuon) {
 			Date date = null;
-
 			SimpleDateFormat sdf = new SimpleDateFormat("dd-MM-yyyy");
-
 			try {
 				date = sdf.parse(strNgayMuon);
 			} catch (ParseException e) {
 				System.out.println("Loi dinh dang ngay thang!");
 			}
-
 			return date;
-		}
-
-	
+		}	
 		public void hienThiThongTin() {
 			super.hienThiThongTin();
 
@@ -66,8 +52,6 @@ public class TheMuon extends SinhVien{
 			System.out.println("\tHan tra: " + hanTra);
 			System.out.println("\tSo hieu: " + soHieu);
 		}
-
-
 		public Date getHanTra() {
 			return hanTra;
 		}
