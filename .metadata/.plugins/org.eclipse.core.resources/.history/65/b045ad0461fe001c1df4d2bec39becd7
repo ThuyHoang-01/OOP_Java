@@ -1,8 +1,0 @@
-package Polymorphism;
-
-public class AGR {
-
-	int getRateOfInterest() {
-		 return 7;
-		 }
-}

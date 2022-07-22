@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="week1.KiemTraSoNguyenTo"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
     <fullyQualifiedTypeName name="java.io.Console"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.sql.Date"/>
     <fullyQualifiedTypeName name="module2_1.Nguoi"/>
     <fullyQualifiedTypeName name="java.util.List"/>
@@ -14,11 +12,31 @@
     <fullyQualifiedTypeName name="bai1.SinhVien"/>
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="bai5.SinhVien"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="Polymorphism.Animal"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="bai4.KhachHang"/>
     <fullyQualifiedTypeName name="overriding.Vehicle"/>
+    <fullyQualifiedTypeName name="week4.Point"/>
+    <fullyQualifiedTypeName name="week4.Circle"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.text.DecimalFormat"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="week4.Person"/>
+    <fullyQualifiedTypeName name="week4.Employee"/>
+    <fullyQualifiedTypeName name="people.NhanVien"/>
+    <fullyQualifiedTypeName name="people.QuanLyNhanVien"/>
+    <fullyQualifiedTypeName name="NhanVien"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="collections.DanhSachSinhVien"/>
+    <fullyQualifiedTypeName name="collections.SortBySinhVien"/>
+    <fullyQualifiedTypeName name="collections.SinhVien"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashSet"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="Product"/>
 </qualifiedTypeNameHistroy>
